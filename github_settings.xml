@@ -1,6 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="willy-bui" />
+    <option name="LOGIN" value="willy.bui" />
     <option name="HOST" value="https://github.com/Willy-Bui/PokeSmart" />
     <option name="AUTH_TYPE" value="BASIC" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
